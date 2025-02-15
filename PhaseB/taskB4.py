@@ -23,8 +23,8 @@ def clone_and_commit():
     run_command("git --version")
 
     # Configure Git user
-    run_command('git config --global user.name "23f2004837"')
-    run_command('git config --global user.email "23f2004837@ds.study.iitm.ac.in"')
+    run_command('git config --global user.name "23f2002121"')
+    run_command('git config --global user.email "23f2002121@ds.study.iitm.ac.in"')
 
     # 1. Clone the repository
     print("Cloning repository...")
