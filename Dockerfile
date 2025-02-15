@@ -9,8 +9,8 @@ RUN apt-get update && apt-get install -y curl \
 
 RUN apt-get update && apt-get install -y git
 
-RUN git config --global user.name "22f3002188" && \
-    git config --global user.email "22f3002188@ds.study.iitm.ac.in"
+RUN git config --global user.name "23f2002121" && \
+    git config --global user.email "23f2002121@ds.study.iitm.ac.in"
 
 WORKDIR /app
 
